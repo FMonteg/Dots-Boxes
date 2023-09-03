@@ -1,9 +1,8 @@
-- Sélection aléatoire d'un move
-- Détection des moves gagnants 1 ou 2 points ("double-crossing moves")
+- Sélection aléatoire d'un move ?
 - Détection des moves dangereux générant un ou deux points ("hard-hearted handout")
 - Détection des loony qui laissent l'adversaire choisir l'initiative ("half-hearted handout")
 - Comptage des chaînes et boucles (différencier les longues chaînes >=3)
+- Identifier les structures entamées
 - Identifier qui a l'intiative ("has control") et s'il peut la conserver ("retain control") via un "double-dealing move"
-- Fonctions de conversion des notations entre Condingame et moi
-- Interface pour visualiser
 - Interface pour jouer
+- Conversion pour Codingame
